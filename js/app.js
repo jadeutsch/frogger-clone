@@ -96,7 +96,7 @@ Player.prototype.render = function() {
 };
 
 // Display score for Player
-Player.prototype.render = function () {
+Player.prototype.points = function () {
   score.textContent = this.score;
 };
 
