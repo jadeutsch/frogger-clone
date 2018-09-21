@@ -12,7 +12,7 @@
 When the game loads on the webpage, you'll see a character standing at the bottom 
 of a 2x5 area of grass. Just above that is a 3x5 area of stone with bugs traveling
 at various speeds from left to right. A blue gem sits in the center of the stone area
-with a 2x5 area of water just beyond the stone. To win, you must move the character
+with a 1x5 area of water just beyond the stone. To win, you must move the character
 from the grass, using the Up-Down-Left-Right arrow keys, across the stone without 
 colliding with the bugs, and onto the water. Collecting the gem adds an additional 
 100 points to your score. If you collide with an enemy bug, you will restart back 
